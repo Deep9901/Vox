@@ -1,4 +1,4 @@
-# ChatApp
+# Vox
 
 A production-ready, microservices-based real-time chat application built with TypeScript and Node.js. This project implements an API Gateway pattern with event-driven architecture, featuring JWT authentication, multi-database persistence, and Redis caching.
 
